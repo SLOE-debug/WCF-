@@ -1,0 +1,6 @@
+D:\MyCode\WCF\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+D:\MyCode\WCF\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+D:\MyCode\WCF\GettingStarted\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+D:\MyCode\WCF\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.csproj.CoreCompileInputs.cache
+D:\MyCode\WCF\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+D:\MyCode\WCF\GettingStarted\GettingStartedClient\obj\Debug\GettingStartedClient.pdb

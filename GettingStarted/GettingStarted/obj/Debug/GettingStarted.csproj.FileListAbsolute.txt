@@ -1,0 +1,6 @@
+D:\MyCode\WCF\GettingStarted\GettingStarted\bin\Debug\GettingStarted.dll.config
+D:\MyCode\WCF\GettingStarted\GettingStarted\bin\Debug\GettingStarted.dll
+D:\MyCode\WCF\GettingStarted\GettingStarted\bin\Debug\GettingStarted.pdb
+D:\MyCode\WCF\GettingStarted\GettingStarted\obj\Debug\GettingStarted.csproj.CoreCompileInputs.cache
+D:\MyCode\WCF\GettingStarted\GettingStarted\obj\Debug\GettingStarted.dll
+D:\MyCode\WCF\GettingStarted\GettingStarted\obj\Debug\GettingStarted.pdb
